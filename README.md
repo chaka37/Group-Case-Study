@@ -6,4 +6,4 @@
 
 ## How Plaid Uses Tech
 
-Banks do not provide an API for their customer dtat because there is no financial incentive or regulatory requirements that they do so.
+Banks do not provide an API for their customer data because there is no financial incentive or regulatory requirements that they do so. Using information customer accounts through financial institutions Plaid provides a more efficient way for platforms such as Venmo, Betterment, and Paypal to seamlessly connect their customers to their bank accounts.
